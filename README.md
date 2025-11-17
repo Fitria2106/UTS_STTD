@@ -1,6 +1,6 @@
 <h1 align="center"> 
    UJIAN TENGAH SEMESTER <br>
-   SISTERDISTRIBUSI TERDESENTRALISASI
+   SISTEM TERDISTRIBUSI TERDESENTRALISASI
 </h1>
 <p align="center"><b>Fritria Yosefina Rossa Waroy (215410067)</b></p>
 
